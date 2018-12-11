@@ -1,0 +1,24 @@
+AH00112: Warning: DocumentRoot [/var/www/html/laracast/public/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 09 14:10:47.859772 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Sun Dec 09 14:10:47.860089 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laracast/public/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 09 14:11:19.063311 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Sun Dec 09 14:11:19.063391 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laracast/public/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 09 14:22:03.400426 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Sun Dec 09 14:22:03.400521 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laracast/public/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 09 14:22:45.624725 2018] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Sun Dec 09 14:22:45.624840 2018] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00112: Warning: DocumentRoot [/var/www/html/laracast/public/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 09 14:24:31.349991 2018] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Sun Dec 09 14:24:31.350102 2018] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Dec 09 14:26:59.427247 2018] [mpm_prefork:notice] [pid 10] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 09 14:27:01.029649 2018] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.2.12 configured -- resuming normal operations
+[Sun Dec 09 14:27:01.029902 2018] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'

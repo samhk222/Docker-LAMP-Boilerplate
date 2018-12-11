@@ -43,11 +43,11 @@ RUN docker-php-ext-install curl \
 # Para conseguir ler as variáveis de ambiente no php-cli
 RUN echo 'alias ll="ls -lah"' >> ~/.bashrc
 
-RUN composer global require laravel/installer
+# RUN composer global require laravel/installer
 #RUN export PATH=$PATH:$ADDITIONAL_PATH;
 
 ENV AMBIENTE DEV
-ENV DB_HOST WMS-5.6-mysql
+ENV DB_HOST SERVER-5.6-mysql
 ENV DB_DATABASE wms
 ENV DB_USERNAME root
 ENV DB_PASSWORD password
